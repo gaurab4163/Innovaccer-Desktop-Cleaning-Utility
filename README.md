@@ -15,5 +15,11 @@
 6. Avoids scanning symbolic links(folder shortcuts) to avoid scanning the same files(contained in shortcut folder) multiple times
 7. Use of Heap to efficiently store and update 10 largest files.
 
+# Limitations
+1. Works only on Linux as of now. Couldn't make it cross-platform due to exams and other academic engagements and thus, limitation of time.
+2. While finding largest files, scans the home directory and media directory. If "/" is given as the source path, segmentation fault is reached. Although unlikey that these system folders might contain largest file, there is a possibility. Couldn't think around this problem as of now.
+
+# Plan to do 
+
 
 
