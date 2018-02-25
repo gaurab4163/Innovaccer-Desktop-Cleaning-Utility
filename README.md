@@ -2,4 +2,8 @@
 1. Cleans and helps organize the desktop by moving files to separate folder based on extension
 2. Finds the top 10 largest files in the system.
 
+# Corner cases this file handles
+1. If file with same name already exists in destination(Documents folder), the file in the Desktop would be renamed by     appending number in the end before moving.
+
+
 
