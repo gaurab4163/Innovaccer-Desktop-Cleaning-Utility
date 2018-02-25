@@ -2,6 +2,14 @@
 1. Cleans and helps organize the desktop by moving files to separate folder based on extension
 2. Finds the top 10 largest files in the system.
 
+
+# How to install/Run
+It's pretty straight forward like running nay other c++ program
+1. Open terminal
+2. cd to the directory containing the file "organizeDesktop.cpp"
+3. Type "g++ organizeDesktop.cpp" without quotes
+4. Type "./a.out"
+
 # Corner cases this program can handle(minor features)
 (Desktop CleanUp)
 1. If file with same name already exists in destination(Documents folder), the file in the Desktop would be renamed by     appending number in the end before moving.
@@ -24,12 +32,8 @@
 2. Add GUI. I had been experimenting a lot lately with Qt, but couldn't write GUI because of time limitation and my other academic engagements(exams). It would greatly help novice users who are unacquainted with terminal
 
 # Youtube video on how to run this program
-Add the link by tomorrow
+Will add the link by tomorrow
 
-# How to install
-It's pretty straight forward
-1. Open terminal
-2. cd to the directory 
 
 
 
