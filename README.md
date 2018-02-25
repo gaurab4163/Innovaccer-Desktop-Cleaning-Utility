@@ -8,7 +8,7 @@ It's pretty straight forward like running any other c++ program
 1. Open terminal
 2. cd to the directory containing the file "organizeDesktop.cpp"
 3. Type "g++ organizeDesktop.cpp" without quotes
-4. Type "./a.out"
+4. Type "./a.out" without quotes
 
 # Corner cases this program can handle(minor features)
 (Desktop CleanUp)
@@ -34,9 +34,8 @@ It's pretty straight forward like running any other c++ program
 # Youtube video on how to run this program
 Will add the link by tomorrow
 
-# My system on which this program ran
-Ubuntu 16.04
-Tested in Code::Blocks IDE
+# System/environment on which this program ran
+Ubuntu 16.04, Tested in Code::Blocks IDE
 
 
 
