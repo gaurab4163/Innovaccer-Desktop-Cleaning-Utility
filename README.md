@@ -4,7 +4,7 @@
 
 
 # How to install/Run
-It's pretty straight forward like running nay other c++ program
+It's pretty straight forward like running any other c++ program
 1. Open terminal
 2. cd to the directory containing the file "organizeDesktop.cpp"
 3. Type "g++ organizeDesktop.cpp" without quotes
@@ -25,7 +25,7 @@ It's pretty straight forward like running nay other c++ program
 
 # Limitations
 1. Works only on Linux as of now. Couldn't make it cross-platform due to exams and other academic engagements and thus, limitation of time.
-2. While finding largest files, scans the home directory and media directory. If "/" is given as the source path, segmentation fault is reached. Although unlikey that these system folders might contain largest file, there is a possibility. Couldn't think around this problem as of now.
+2. While finding largest files, scans the home directory and media directory. If "/" is given as the source path, segmentation fault occurs. Although unlikey that these system folders might contain largest file, there is a possibility. Couldn't think of efficient solution around this problem as of now.
 
 # Plans to do in near future(Features to add)
 1. Make it cross platform to work well in both windows and linux, without any user input(automatically detect if windows or linux and run respective portions of code)
@@ -34,6 +34,9 @@ It's pretty straight forward like running nay other c++ program
 # Youtube video on how to run this program
 Will add the link by tomorrow
 
+# My system on which this program ran
+Ubuntu 16.04
+Tested in Code::Blocks IDE
 
 
 
