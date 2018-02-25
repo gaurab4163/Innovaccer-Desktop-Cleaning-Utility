@@ -11,7 +11,9 @@
 5. Handles extensionless files(e.g. executable files) by moving them in "extensionLess" folder
 
 (10 largest files)
-6. 
+
+6. Avoids scanning symbolic links(folder shortcuts) to avoid scanning the same files(contained in shortcut folder) multiple times
+7. Use of Heap to efficiently store and update 10 largest files.
 
 
 
