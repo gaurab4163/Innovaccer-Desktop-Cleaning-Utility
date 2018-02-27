@@ -129,10 +129,28 @@ void organizeDesktop(const string& homePath, stringvec& seenExtensions)
     closedir(dirp);
 }
 
+
+
+
+
+
+
+
+
 /**
    Code to clean the desktop finishes.
    Code to find the top 10 files in the system starts
  */
+
+
+
+
+
+
+
+
+
+
 
 // User defined class FileProperties
 struct fileProperties{
