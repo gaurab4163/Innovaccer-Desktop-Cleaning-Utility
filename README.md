@@ -32,7 +32,7 @@ It's pretty straight forward like running any other c++ program
 2. Add GUI. I had been experimenting a lot lately with Qt, but couldn't write GUI because of time limitation and my other academic engagements(exams). It would greatly help novice users who are unacquainted with terminal
 
 # Youtube video on how to run this program
-https://www.youtube.com/watch?v=VpsBJHMZmSg
+https://youtu.be/jNE4rfdPNvM
 
 # System/environment on which this program ran
 Ubuntu 16.04, Tested in Code::Blocks IDE
