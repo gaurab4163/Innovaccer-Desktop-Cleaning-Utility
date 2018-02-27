@@ -10,6 +10,9 @@ It's pretty straight forward like running any other c++ program
 3. Type "g++ organizeDesktop.cpp" without quotes
 4. Type "./a.out" without quotes
 
+Video of Program Demonstration:  
+https://www.youtube.com/watch?v=jNE4rfdPNvM
+
 # Corner cases this program can handle(minor features)
 (Desktop CleanUp)
 1. If file with same name already exists in destination(Documents folder), the file in the Desktop would be renamed by     appending number in the end before moving.
