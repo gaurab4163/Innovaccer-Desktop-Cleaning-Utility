@@ -25,22 +25,3 @@ https://www.youtube.com/watch?v=jNE4rfdPNvM
 
 6. Avoids scanning symbolic links(folder shortcuts) to avoid scanning the same files(contained in shortcut folder) multiple times
 7. Use of Heap to efficiently store and update 10 largest files.
-
-# Limitations
-1. Works only on Linux as of now. Couldn't make it cross-platform due to exams and other academic engagements and thus, limitation of time.
-2. While finding largest files, scans the home directory and media directory. If "/" is given as the source path, segmentation fault occurs. Although unlikey that these system folders might contain largest file, there is a possibility. Couldn't think of efficient solution around this problem as of now.
-
-# Plans to do in near future(Features to add)
-1. Make it cross platform to work well in both windows and linux, without any user input(automatically detect if windows or linux and run respective portions of code)
-2. Add GUI. I had been experimenting a lot lately with Qt, but couldn't write GUI because of time limitation and my other academic engagements(exams). It would greatly help novice users who are unacquainted with terminal
-
-# Youtube video on how to run this program
-https://youtu.be/jNE4rfdPNvM
-
-# System/environment on which this program ran
-Ubuntu 16.04, Tested in Code::Blocks IDE
-
-
-
-
-
