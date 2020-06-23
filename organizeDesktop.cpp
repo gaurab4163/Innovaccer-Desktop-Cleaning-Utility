@@ -1,3 +1,7 @@
+/**
+   Disclaimer: Wrote most of it sleep deprived. Spaghetti code ahead!
+ */
+
 #include <iostream>
 #include <string>
 #include <vector>
